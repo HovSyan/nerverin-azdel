@@ -1,0 +1,14 @@
+{
+  "name": "slack-app",
+  "version": "1.0.0",
+  "description": "A server for slack app to respond to slash commands",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hov Sahakyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
